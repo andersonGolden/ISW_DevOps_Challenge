@@ -94,8 +94,9 @@ C:\PersonalProjects\ISW_Challange\ISW_RestAPI\ISW_RestAPI\bin\Microsoft.AI.Depen
 C:\PersonalProjects\ISW_Challange\ISW_RestAPI\ISW_RestAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\PersonalProjects\ISW_Challange\ISW_RestAPI\ISW_RestAPI\bin\Microsoft.AI.WindowsServer.xml
 C:\PersonalProjects\ISW_Challange\ISW_RestAPI\ISW_RestAPI\bin\Microsoft.AI.Web.xml
-C:\PersonalProjects\ISW_Challange\ISW_RestAPI\ISW_RestAPI\obj\Debug\ISW_RestAPI.csprojResolveAssemblyReference.cache
 C:\PersonalProjects\ISW_Challange\ISW_RestAPI\ISW_RestAPI\obj\Debug\ISW_RestAPI.csproj.CoreCompileInputs.cache
 C:\PersonalProjects\ISW_Challange\ISW_RestAPI\ISW_RestAPI\obj\Debug\ISW_RestAPI.csproj.CopyComplete
 C:\PersonalProjects\ISW_Challange\ISW_RestAPI\ISW_RestAPI\obj\Debug\ISW_RestAPI.dll
 C:\PersonalProjects\ISW_Challange\ISW_RestAPI\ISW_RestAPI\obj\Debug\ISW_RestAPI.pdb
+C:\PersonalProjects\ISW_Challange\ISW_RestAPI\ISW_RestAPI\obj\Debug\ISW_RestAPI.Migrations.InitialCreate.resources
+C:\PersonalProjects\ISW_Challange\ISW_RestAPI\ISW_RestAPI\obj\Debug\ISW_RestAPI.csproj.GenerateResource.cache
